@@ -14,7 +14,7 @@ let vacxin1 = new vacxin("AstraZeneca", "Tập đoàn AstraZeneca", "England");
 let vacxin2 = new vacxin("SPUTNIK V", "Viện Nghiên cứu Gamaleya", "Nga");
 
 person1.phieu("SPUTNIK V", "23/8/2021", totalconfirmation); // sử dụng phương thức để phieu của class person vì person 1 được tiêm 2 mũi vaccine
-
+console.log("hello world");
 let confirmation1 = new confirmation(
   "Abc",
   30,
