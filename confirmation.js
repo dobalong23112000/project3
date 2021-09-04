@@ -1,5 +1,5 @@
 import people from "./people.js";
-
+console.log("hello");
 class confirmation extends people {
   vaccinename;
   date;
